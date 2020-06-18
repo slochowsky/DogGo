@@ -13,7 +13,6 @@ namespace DogGo1.Repositories
         {
             _config = config;
         }
-
         public SqlConnection Connection
         {
             get
