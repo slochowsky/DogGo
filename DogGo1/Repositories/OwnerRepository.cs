@@ -102,9 +102,11 @@ namespace DogGo1.Repositories
                         reader.Close();
                         return owner;
                     }
-
-                    reader.Close();
-                    return null;
+                    else
+                    {
+                        reader.Close();
+                        return null;
+                    }
                 }
             }
         }

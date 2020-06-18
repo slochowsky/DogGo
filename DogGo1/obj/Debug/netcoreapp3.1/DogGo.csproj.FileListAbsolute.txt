@@ -828,3 +828,6 @@ C:\Users\sloch\source\repos\TheRealDogGo\DogGo\DogGo1\obj\Debug\netcoreapp3.1\st
 C:\Users\sloch\source\repos\TheRealDogGo\DogGo\DogGo1\obj\Debug\netcoreapp3.1\DogGo.dll
 C:\Users\sloch\source\repos\TheRealDogGo\DogGo\DogGo1\obj\Debug\netcoreapp3.1\DogGo.pdb
 C:\Users\sloch\source\repos\TheRealDogGo\DogGo\DogGo1\obj\Debug\netcoreapp3.1\DogGo.genruntimeconfig.cache
+C:\Users\sloch\source\repos\TheRealDogGo\DogGo\DogGo1\obj\Debug\netcoreapp3.1\Razor\Views\Dogs\Create.cshtml.g.cs
+C:\Users\sloch\source\repos\TheRealDogGo\DogGo\DogGo1\obj\Debug\netcoreapp3.1\Razor\Views\Dogs\Delete.cshtml.g.cs
+C:\Users\sloch\source\repos\TheRealDogGo\DogGo\DogGo1\obj\Debug\netcoreapp3.1\Razor\Views\Dogs\Edit.cshtml.g.cs
